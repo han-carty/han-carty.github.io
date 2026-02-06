@@ -1,0 +1,52 @@
+p {
+    color: black;
+    font-family: 'Montserrat', Montserrat, sans-serif;
+    font-size: medium;
+    margin-left: 300px;
+    margin-top: 150px;
+    max-width: 300px;
+    z-index: 0;
+}
+
+.footer {
+    font-family: 'Montserrat', Montserrat, sans-serif;
+    font-size: x-small;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    z-index: 10;
+}
+
+b {
+    color: darkcyan;
+}
+
+.headshot {
+    top: 150px;
+    left: 700px;
+    position: absolute;
+}
+
+.decor_sparkles {
+    z-index: 2;
+    position: relative;
+    margin-left: 650px;
+    margin-top: -290px;
+}
+
+.decor_hearts {
+    z-index: 1;
+    position: relative;
+    margin-left: 765px;
+    margin-top: 230px;
+}
+
+body {
+    background: fixed;
+    background-color: antiquewhite;
+}
+
+a {
+    color: darkcyan;
+
+}
